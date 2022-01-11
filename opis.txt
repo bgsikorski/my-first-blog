@@ -1,0 +1,13 @@
+https://tutorial.djangogirls.org/pl/deploy/
+
+
+127.0.0.1:8000/admin
+bs/zaq1
+
+GIT
+git-scm.com
+
+$ git init
+Initialized empty Git repository in ~/djangogirls/.git/
+$ git config --global user.name "bsikorski"
+$ git config --global user.email bgsikorski@gmail.com
